@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files created by the app
+temp_*.jpg
+*_analysis_analysis*.png
